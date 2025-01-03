@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(193, 193, 211, 0.486);
+}
+
+.component{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px;
+    padding: 10px;
+    width: 350px;
+    background-color: white;
+    margin-left: 730px;
+    margin-top: 200px;
+    box-shadow: 5px 10px 19px rgba(128, 128, 128, 0.349);
+}
+
+.component h1{
+    text-align: center;
+    font-size: 24px;
+}
+
+.component p{
+    text-align: center;
+    font-size: 17px;
+}
+
+.component img{
+    border-radius: 20px;
+}
