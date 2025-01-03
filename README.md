@@ -12,13 +12,11 @@ A QR code component that displays a qr code. The qr code when scanned directs th
 - HTML
 - CSS
 
+## live site
+(https://joyful-biscotti-2db11d.netlify.app/)
 
 ## Usage
-To use this component, simply get a fork of the the following repository and clone it into your device using the following command line arguments 
-
-    git clone https://github.com/LisaAuta/frontend-mentor-qr-code-component.git
-    cd frontend-mentor-qr-code-component
-    
+To use this component, simply get a fork of the the following repository and clone it into your device. Navigate to the repository and continue.
 
 ### License
 The MIT License (MIT)
